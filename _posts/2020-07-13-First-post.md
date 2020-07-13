@@ -1,7 +1,6 @@
 ---
 layout: post
 title: First post
-thumbnail-img: /assets/img/thumb.png
 tags: [nice, go]
 ---
 
